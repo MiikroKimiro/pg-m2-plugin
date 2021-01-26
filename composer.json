@@ -2,7 +2,7 @@
     "name": "paymentez/payment-gateway",
     "description": "Paymentez integration for Magento 2",
     "require": {
-        "magento/magento-composer-installer": "^0.1.13",
+        "magento/magento-composer-installer": "^0.2",
         "paymentez/sdk": "^1"
     },
     "type": "magento2-module",
